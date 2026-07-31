@@ -1,6 +1,10 @@
 # Analyses of bent spindles reveal the mechanics of anaphase B in fission yeast
 
-This repository contains the analysis code used in the publication.  
+This repository contains the analysis code used in the publication. 
+## Paper
+  [Paper published on Molecular Biology of the Cell](https://doi.org/10.1091/mbc.E25-11-0556)
+  [Preprint on Biorxiv](https://doi.org/10.1101/2025.11.20.689516)
+   
 All scripts can be run directly in **Google Colab**, so there is **no need to install Python locally**.
 
 **Authors:**  
@@ -12,7 +16,7 @@ Paula Real-Calderón (1,2), Thomas Fai (3), Rafael R. Daga (2), Joël Lemière* 
 *co-corresponding authors
 
 
-# Description of the different files and folders
+## Description of the different files and folders
 -> Data/Spindle Example Data/
 This folder contains two examples of raw data (in the subfolders sp3 and sp4).
 The codes provided in this repository uses these datasets, and can be run in Google Colab to demonstrate how the analysis is performed.
